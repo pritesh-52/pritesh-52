@@ -48,15 +48,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pritesh-52&show_icons=true&theme=radical" alt="Pritesh's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritesh-52&theme=radical" alt="Pritesh's GitHub streak" height="165"/>
-</p>
-
-<br/>
-
 ## 🚀 Key Projects
 
 **Global Hospitality Commerce System – Coca-Cola**
@@ -70,7 +61,7 @@ Built a payment module supporting partial payments & installment plans, with dyn
 ## 📫 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/pritesh-52" target="_blank">
+  <a href="https://www.linkedin.com/in/pritesh-bhatiya-0a34ba1b6/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:priteshbhatiya52@gmail.com">
