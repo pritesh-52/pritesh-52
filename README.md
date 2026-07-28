@@ -10,7 +10,7 @@
 - 🌱 I'm currently learning **Payload CMS** and diving deeper into **AWS QuickSight** for analytics dashboards
 - 💬 Ask me about **JavaScript, TypeScript, React.js, Next.js, Node.js, Medusa.js, PostgreSQL, MongoDB, AWS (Lambda, S3, Cognito, SQS, SES, QuickSight)**
 - 🏆 AWS Certified Solutions Architect – Associate | Salesforce Certified Associate
-- 📄 Know more about my experience in my [resume](#)
+- 📄 Know more about my experience in my [resume](https://github.com/pritesh-52/pritesh-52/blob/main/Pritesh.pdf)
 - 📫 How to reach me: **priteshbhatiya52@gmail.com**
 - ⚡ Fun fact: 1st Place winner at the Technomark Solutions Hackathon 🚀
 
