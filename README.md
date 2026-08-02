@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pritesh Bhatiya</h1>
 <h3 align="center">Software Engineer at Tech Holding Pvt. Ltd</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pritesh-52&label=Profile%20views&color=0e75b6&style=flat" alt="pritesh-52" />
-</p>
+
 
 - 🔭 I'm currently working on **scalable SaaS & e-commerce platforms** using React.js, Next.js, Node.js & PostgreSQL
 - 💪 Strong hands-on expertise in **Medusa.js** — designed and built a full commerce backend with it in production
